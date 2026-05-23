@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.png" width="100%" alt="sanagifuki" />
+</p>
 
-<!--
-**sanagifuki/sanagifuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="./assets/overview.svg" width="720" alt="Overview" />
+</p>
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanagifuki)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanagifuki)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanagifuki&utcOffset=9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="./assets/techstack.svg" width="720" alt="Tech Stack" />
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws&theme=light)](https://skillicons.dev)
