@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/overview.svg" width="720" alt="Overview" />
+  <img src="./assets/overview.svg" width="640" alt="Overview" />
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanagifuki&theme=graywhite)
@@ -7,7 +7,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanagifuki&theme=graywhite&utcOffset=9)
 
 <p align="left">
-  <img src="./assets/techstack.svg" width="720" alt="Tech Stack" />
+  <img src="./assets/techstack.svg" width="640" alt="Tech Stack" />
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws&theme=light)](https://skillicons.dev)
