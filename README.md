@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="./assets/header.png" width="100%" alt="sanagifuki" />
-</p>
-
 <p align="left">
   <img src="./assets/overview.svg" width="720" alt="Overview" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanagifuki)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanagifuki)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanagifuki&utcOffset=9)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanagifuki&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanagifuki&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanagifuki&theme=default&utcOffset=9)
 
 <p align="left">
   <img src="./assets/techstack.svg" width="720" alt="Tech Stack" />
