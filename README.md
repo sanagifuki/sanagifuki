@@ -10,4 +10,4 @@
   <img src="./assets/techstack.svg" width="640" alt="Tech Stack" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell,java,spring,aws&theme=light)](https://skillicons.dev)
